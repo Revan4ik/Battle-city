@@ -11,3 +11,8 @@
   position: absolute;
   width: 20px;
 }
+.fire{
+  display: none;
+  position: absolute;
+  width: 10px;
+}
