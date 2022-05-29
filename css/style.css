@@ -1,0 +1,13 @@
+
+.Tank{
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.bullet{
+  display: none;
+  position: absolute;
+  width: 20px;
+}
